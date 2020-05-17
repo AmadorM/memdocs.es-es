@@ -27,8 +27,8 @@ ATP de Microsoft Defender es un servicio del [Centro de seguridad avanzada de W
 
 ## <a name="prerequisites"></a>Requisitos previos
 
-- Suscripción al servicio en línea Protección contra amenazas avanzada de Microsoft Defender  
-- Equipos Mac que ejecutan el cliente de Configuration Manager
+- Suscripción al servicio en línea Protección contra Amenazas Avanzada de Microsoft Defender  
+- Equipos que ejecutan el cliente de Configuration Manager
 - Clientes que usan un sistema operativo que aparece en la sección [Sistemas operativos de cliente compatibles](#bkmk_os) siguiente.
 
 ### <a name="supported-client-operating-systems"></a><a name="bkmk_os"></a> Sistemas operativos de cliente compatibles
